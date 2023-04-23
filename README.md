@@ -1,4 +1,4 @@
-# hello_world_app
+# Counter App Material 3
 
 A new Flutter project.
 
